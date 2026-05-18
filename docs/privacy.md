@@ -41,7 +41,7 @@ IronTrack uses the following third-party services:
 
 ## Contact
 
-For privacy questions, contact: [your-email]
+For privacy questions, contact: zuoyang0601@gmail.com
 
 ---
 
