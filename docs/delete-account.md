@@ -1,6 +1,6 @@
 # Delete Your MuscleMetria Account
 
-**Last updated: 2026-05-30**
+**Last updated: 2026-06-04**
 
 This page explains how MuscleMetria users can request deletion of their account and associated app data.
 
@@ -23,7 +23,7 @@ Account deletion removes the following cloud data associated with your account:
 - workout logs and workout execution records
 - training plans
 - food items, food logs, recipes, nutrition targets, meal plans, and nutrition execution records
-- coach-client links, invite records, assigned plans, check-ins, form checks, coach notes, body measurements, progress photos, and related coach media
+- coach-client links, invite records, assigned plans, check-ins, form checks, coach notes, body measurements, health snapshots, progress photos, and related coach media
 - app settings, AI entitlement records, AI credit records, and AI usage records associated with your account
 
 Data stored only on your own device is removed if you uninstall the app or clear the app's local data.

@@ -1,6 +1,6 @@
 # Delete MuscleMetria Data
 
-**Last updated: 2026-05-30**
+**Last updated: 2026-06-04**
 
 This page explains how MuscleMetria users can request deletion of app data without deleting their entire account.
 
@@ -19,7 +19,7 @@ Depending on the feature, this may include:
 - training plans
 - food items, food logs, recipes, nutrition targets, meal plans, and nutrition execution records
 - coach-client links and assigned plans
-- check-ins, form checks, body measurements, progress photos, and related coach media
+- check-ins, form checks, body measurements, health snapshots, progress photos, and related coach media
 - app settings and local app data
 
 ## Request Data Deletion By Email

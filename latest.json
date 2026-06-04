@@ -1,9 +1,4 @@
 {
-  "version": "1.4.35+62",
-  "build_number": 62,
-  "tag": "v1.4.35+62",
-  "release_url": "https://github.com/zuoyangjkpi/IronTrack-releases/releases/tag/v1.4.35%2B62",
-  "apk_url": "https://github.com/zuoyangjkpi/IronTrack-releases/releases/download/v1.4.35%2B62/IronTrack-1.4.35.apk",
-  "apk_size_bytes": 118860028,
-  "published_at": "2026-05-15T16:46:45Z"
+  "status": "disabled",
+  "message": "Direct APK downloads are no longer distributed from this repository. Use Google Play or App Store testing channels for current MuscleMetria builds."
 }
