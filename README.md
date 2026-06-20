@@ -1,6 +1,6 @@
 # MuscleMetria Public Pages
 
-This public repository hosts MuscleMetria support, privacy, and account/data deletion pages.
+This public repository hosts MuscleMetria support, privacy, terms, and account/data deletion pages.
 
 MuscleMetria Android store builds are distributed through Google Play as app bundles. Public GitHub APK release assets are no longer hosted in this repository.
 
